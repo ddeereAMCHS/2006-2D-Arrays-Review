@@ -1,0 +1,11 @@
+8
+4
+Player; Shots Attempted; Shots Made; Free Throws Attempted; Free Throws Made
+23; 10; 2; 4; 4
+13; 6; 3; 2; 1
+45; 8; 3; 3; 3
+33; 6; 0; 2; 2
+11; 2; 2; 0; 0
+25; 7; 5; 2; 1
+31; 6; 2; 3; 2
+35; 6; 4; 4; 2
