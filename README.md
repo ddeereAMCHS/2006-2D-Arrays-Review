@@ -28,20 +28,20 @@ Player; Shots Attempted; Shots Made; Free Throws Attempted; Free Throws Made\
 31; 6; 2; 3; 2\
 35; 6; 4; 4; 2\
 ***Example Output:***\
-Player 23 scored _ points\
-Player 13 scored _ points\
-Player 45 scored _ points\
-Player 33 scored _ points\
-Player 11 scored _ points\
-Player 25 scored _ points\
-Player 31 scored _ points\
-Player 35 scored _ points\
-The team scored _ points\
-Player 23 had a free throw percentage of _\
-Player 13 had a free throw percentage of _\
-Player 45 had a free throw percentage of _\
-Player 33 had a free throw percentage of _\
-Player 11 had a free throw percentage of _\
-Player 25 had a free throw percentage of _\
-Player 31 had a free throw percentage of _\
-Player 35 had a free throw percentage of _
+Player 23 scored 8 points\
+Player 13 scored 7 points\
+Player 45 scored 9 points\
+Player 33 scored 2 points\
+Player 11 scored 4 points\
+Player 25 scored 11 points\
+Player 31 scored 6 points\
+Player 35 scored 10 points\
+The team scored 57 points\
+Player 23 had a free throw percentage of 100.0%\
+Player 13 had a free throw percentage of 50.0%\
+Player 45 had a free throw percentage of 100.0%\
+Player 33 had a free throw percentage of 100.0%\
+Player 11 had a free throw percentage of 0.0%\
+Player 25 had a free throw percentage of 50.0%\
+Player 31 had a free throw percentage of 66.7%\
+Player 35 had a free throw percentage of 50.0%
