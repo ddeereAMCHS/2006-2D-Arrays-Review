@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "input.txt",
+      "setup": "javac Arrays2DReview.java",
+      "run": "java Arrays2DReview",
+      "input": "input.txt",
+      "output": "Player 23 scored 8 points\r\nPlayer 13 scored 7 points\r\nPlayer 45 scored 9 points\r\nPlayer 33 scored 2 points\r\nPlayer 11 scored 4 points\r\nPlayer 25 scored 11 points\r\nPlayer 31 scored 6 points\r\nPlayer 35 scored 10 points\r\nThe team scored 57 points\r\nPlayer 23 had a free throw percentage of 100.0%\r\nPlayer 13 had a free throw percentage of 50.0%\r\nPlayer 45 had a free throw percentage of 100.0%\r\nPlayer 33 had a free throw percentage of 100.0%\r\nPlayer 11 had a free throw percentage of 0.0%\r\nPlayer 25 had a free throw percentage of 50.0%\r\nPlayer 31 had a free throw percentage of 66.7%\r\nPlayer 35 had a free throw percentage of 50.0%",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "input2.txt",
+      "setup": "javac Arrays2DReview.java",
+      "run": "java Arrays2DReview",
+      "input": "input2.txt",
+      "output": "Player 21 scored 7 points\r\nPlayer 23 scored 6 points\r\nPlayer 15 scored 10 points\r\nPlayer 22 scored 2 points\r\nPlayer 11 scored 4 points\r\nPlayer 52 scored 11 points\r\nPlayer 13 scored 8 points\r\nPlayer 35 scored 7 points\r\nThe team scored 55 points\r\nPlayer 21 had a free throw percentage of 75.0%\r\nPlayer 23 had a free throw percentage of 0.0%\r\nPlayer 15 had a free throw percentage of 80.0%\r\nPlayer 22 had a free throw percentage of 100.0%\r\nPlayer 11 had a free throw percentage of 0.0%\r\nPlayer 52 had a free throw percentage of 50.0%\r\nPlayer 13 had a free throw percentage of 66.7%\r\nPlayer 35 had a free throw percentage of 25.0%",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
