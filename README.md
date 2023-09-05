@@ -1,6 +1,6 @@
 # 2D Arrays Review
 
-## Due: Fri 9/9 at 11:59 PM
+## Due: Fri 9/8 at 11:59 PM
 
 - Create a program called `Arrays2DReview.java`
 - Prompt the user for a filename
